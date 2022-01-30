@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gaurav-bisht-89
+- 👋 Hi, I’m Gaurav Bisht
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python for Data Science
 - 💞️ I’m looking to collaborate on Data Analytics Projects
